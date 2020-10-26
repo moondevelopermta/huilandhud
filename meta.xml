@@ -1,0 +1,11 @@
+<meta>
+	<script src='Hud.lua' type='client' cache='false' />
+
+    <file src="files/hud.png"/>
+    <file src="files/hud2.png"/>
+    
+    <file src="files/Gilroy-Light.ttf"/>
+    <file src="files/Gilroy-Medium.ttf"/>
+    <file src="files/Gilroy-Regular.ttf"/>
+	
+</meta>
