@@ -1,2 +1,2 @@
-# huilandhud
+# HuiLand Hud
 Huiland Hud System
